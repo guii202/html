@@ -1,0 +1,45 @@
+.h1_delta1{
+    font-family: 'Lucida Sans';
+    font-size: 75px;
+    color: white;
+    text-align: center;
+}
+
+.h1_delta2{
+    font-size: 40px;
+    color: PURPLE;
+    text-align: center;
+}
+
+.h1_delta3{
+    font-family: sans-serif;
+    font-size: 45px;
+    color: 3D3D3D;
+}
+
+.paragrafo{
+color: #A3A3A3;
+font-size: 25px;
+}
+
+.paragrafo2{
+color: #A3A3A3;
+font-size: 25px;
+}
+
+
+
+::-webkit-scrollbar{
+            display: none;
+        }
+
+/*SEPARAÇAO DE ESTILOS DO HTML*/
+
+
+
+        h4{
+
+        font-size: 40px;
+        color: #CF8940
+
+        }
