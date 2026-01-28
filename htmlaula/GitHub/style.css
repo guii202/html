@@ -3,11 +3,12 @@
     font-size: 75px;
     color: white;
     text-align: center;
+    margin-bottom: -20px;
 }
 
 .h1_delta1_2{
     font-size: 40px;
-    color: PURPLE;
+    color: #FFC07D;
     text-align: center;
 }
 
@@ -16,6 +17,7 @@
     font-size: 45px;
     color: 3D3D3D;
     margin-right: 85%;
+    margin-bottom: -10px;
 }
 
 .paragrafo{
@@ -37,7 +39,7 @@ body{
 }
 
 .div1{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.8);
     width: 80%;
     border-radius: 20px;
 
@@ -60,7 +62,21 @@ h4{
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: rgb(84, 0, 132);
+    background-color: rgb(255, 192, 125);
     border-radius: 10px;
 }
 
+
+.divpesquisa {
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: -50px;
+    margin-top: 25px;
+    
+}
+
+.inputpesquisa {
+color: #999999;
+border-radius: 5.5px;
+
+}
